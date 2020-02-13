@@ -1,0 +1,10 @@
+name: Tosser
+prefix: Tossables
+author: FlailoftheLord
+website: github.com/flailofthelord
+
+# Official Stuffs
+main: me.flail.tosser.Tosser
+version: 1.1
+api-version: 1.13
+description: Custom projectiles, toss whatever you want, wherever!
